@@ -1,3 +1,6 @@
+# AI Disclaimer: This code was written without the use of AI tools.
+# Any assistance received was from course materials, textbooks, or instructor guidance only.
+
 def ask_question(prompt, choices, correct_answer):
     print(prompt)
     for letter, text in choices.items():
